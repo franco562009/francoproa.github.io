@@ -1,5 +1,7 @@
 body{
     background-color: rgb(255, 255, 255);
+	font-family: "fuente linda";
+	font-size: xx-large;
 }
 h1{
     color: rgb(0, 0, 0);
@@ -131,5 +133,5 @@ img{
 
 @font-face{
 	font-family: "fuente linda";
-	src: url("fonts/Rubik_Distressed/RubikDistressed-Regular.ttf");
+	src: url("fonts/Tagesschrift/Tagesschrift-Regular.ttf");
 }

@@ -24,20 +24,24 @@ img{
     display: inline-block;
 }
 .foto{
-    display: inline-block;
 
+	margin-left: 20%;
+	display: inline-block;
+	width: 150%;
 }
+
 .foto2{
 
-
+	margin-left: 20%;
     display: inline-block;
-
+	width: 150%;
 }
+
 .foto3{
 
-
+	margin-left: 20%;
     display: inline-block;
-
+	width: 150%;
 }
 .myButton {
 	background:linear-gradient(to bottom, rgb(81, 82, 80) 0%, rgb(81, 82, 80) 0%);
@@ -51,8 +55,7 @@ img{
     padding: 1px 60px;
 	text-decoration:none;
 	text-shadow:0px 0px 0px #000000;
-    margin-right: 30%;
-    margin-left: 5%;
+    margin-left: 9%;
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, rgb(81, 82, 80) 0%, rgb(81, 82, 80) 0%);
@@ -74,8 +77,7 @@ img{
     padding: 1px 60px;
 	text-decoration:none;
 	text-shadow:0px 0px 0px #000000;
-    margin-right: 30%;
-    margin-left: 50%;
+    margin-left: 9%;
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, rgb(81, 82, 80) 0%, rgb(81, 82, 80) 0%);
@@ -97,8 +99,7 @@ img{
     padding: 1px 60px;
 	text-decoration:none;
 	text-shadow:0px 0px 0px #000000;
-    margin-right: 30%;
-    margin-left: 140%;
+    margin-left: 9%;
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, rgb(81, 82, 80) 0%, rgb(81, 82, 80) 0%);
@@ -110,6 +111,21 @@ img{
 } 
 .espacio{
     display:inline-block; 
-	margin-left: 1;
-	margin-right: 1;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.espacio1{
+    display:inline-block; 
+	margin-left:4%;
+
+}
+.espacio2{
+    display:inline-block; 
+	margin-left: 25%;
+
+}
+.espacio3{
+    display:inline-block; 
+	margin-left: 25%;
+
 }
