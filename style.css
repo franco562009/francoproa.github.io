@@ -124,32 +124,15 @@ img{
 	font-family: "fuente linda";
 	src: url("fonts/Tagesschrift/Tagesschrift-Regular.ttf");
 }
-.th1{
-	background-color: rgb(218, 20, 20);
-	border: #000000;
-	border-style: ridge;
-}
-.td1{
-	background-color: chocolate;
-	border: #000000;
-	border-style: double;
-}
-.th{
-	background-color: rgb(119, 226, 128);
-	border: #000000;
-	border-style: dashed;
-}
 .td{
-	background-color: rgb(75, 55, 42);
-	border: #000000;
-	border-style: dotted;
-}
-.tr2{
-	width: 20%; 
-	height: 100%;
-	background-color: rgb(81, 82, 80);
+	background-color: rgb(81, 82, 80) 0%,;
 	border: 5px #000000;
 	border-style: ridge;
+}
+.th{
+	background-color:rgb(81, 82, 80) 0%,;
+	border: 5px #000000;
+	border-style: double;
 }
 
 

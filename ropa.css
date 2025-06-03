@@ -119,3 +119,13 @@ img{
 	font-family: "fuente linda";
 	src: url("fonts/Tagesschrift/Tagesschrift-Regular.ttf");
 }
+.td{
+	background-color: rgb(81, 82, 80) 0%,;
+	border: 5px #000000;
+	border-style: ridge;
+}
+.th{
+	background-color:rgb(81, 82, 80) 0%,;
+	border: 5px #000000;
+	border-style: double;
+}
